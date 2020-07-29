@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>b236d551079a1010622bf96d7c1ed00d</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="syslog_app_scope">
+    <syslog_app_scope action="INSERT_OR_UPDATE">
+        <level>0</level>
+        <message>Recipients List refresh information - {}</message>
+        <script_artifact>277edc29d74112004f1e82285e61037b</script_artifact>
+        <script_artifact_table>sys_script_include</script_artifact_table>
+        <sequence>173943894090000001</sequence>
+        <source>sn_publications</source>
+        <sys_class_name>syslog_app_scope</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 07:00:02</sys_created_on>
+        <sys_id>b236d551079a1010622bf96d7c1ed00d</sys_id>
+        <sys_scope display_value="Targeted Communications">0fdd6483d72302004f1e82285e61033a</sys_scope>
+    </syslog_app_scope>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-28 14:15:12</sys_created_on>
+        <sys_id>91d9b6d5079e1010622bf96d7c1ed0b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2020-07-28 00:00:02</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_91d9b6d5079e1010622bf96d7c1ed0b1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-28 14:15:12</sys_updated_on>
+        <tablename>syslog_app_scope</tablename>
+    </sys_metadata_link>
+</record_update>
